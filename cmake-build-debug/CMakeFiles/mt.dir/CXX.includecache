@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Dell/CLionProjects/A3/multithreading.cpp
+iostream
+-
+pthread.h
+-
+iomanip
+-
+ctime
+-
+chrono
+-
+windows.h
+-
+

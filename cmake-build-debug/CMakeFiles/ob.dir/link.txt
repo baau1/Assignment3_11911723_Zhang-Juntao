@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ob.dir/openblas.cpp.o  -o ob.exe -Wl,--out-implib,libob.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

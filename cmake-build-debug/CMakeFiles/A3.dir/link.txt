@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/A3.dir/A3.cpp.o  -o A3.exe -Wl,--out-implib,libA3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

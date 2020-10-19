@@ -1,0 +1,5 @@
+/cygdrive/c/Users/Dell/CLionProjects/A3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Dell/CLionProjects/A3/cmake-build-debug/CMakeFiles/mt.dir
+/cygdrive/c/Users/Dell/CLionProjects/A3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Dell/CLionProjects/A3/cmake-build-debug/CMakeFiles/A3.dir
+/cygdrive/c/Users/Dell/CLionProjects/A3/cmake-build-debug/CMakeFiles/ob.dir

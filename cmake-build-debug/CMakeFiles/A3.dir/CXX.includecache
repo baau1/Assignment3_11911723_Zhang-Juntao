@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Dell/CLionProjects/A3/A3.cpp
+algorithm
+-
+iostream
+-
+iomanip
+-
+ctime
+-
+chrono
+-
+
